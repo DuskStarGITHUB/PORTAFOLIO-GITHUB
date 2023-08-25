@@ -1,0 +1,4 @@
+Instrucciones: Porfavor tienes que ingresar el identificador de informacion.
+Ejemplos (nombre, apellido, telefono, dirreccion),esto son los nombres de la
+informacion a guardar, despues ingresar a cada uno su contenido un ejemplo es
+Titulo: (Nombre) Contenido: (DuskStar).
