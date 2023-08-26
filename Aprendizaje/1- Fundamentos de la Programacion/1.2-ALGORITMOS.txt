@@ -1,0 +1,20 @@
+ALGORITMOS
+
+Los algoritmos son una serie de pasos ordenados con el objetivo de resolver un problema.
+
+Definición
+Metodología para resolver un problema.
+
+Características
+
+-Definido (No se puede tener un algoritmo indefinido)
+-Preciso (Claro, Puntual y sin errores)
+-Finito (Tiene que tener un inicio y un fin)
+
+Tipos de Algoritmos:
+
+-Numéricos
+-No Numéricos
+-Grafico (Diagramas de flujo)
+-No Grafico (Seudocódigo)
+

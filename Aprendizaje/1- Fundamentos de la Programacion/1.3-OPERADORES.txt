@@ -1,0 +1,26 @@
+SÍMBOLOS (Operadores)
+
+Los operadores o símbolos de operaciones son aquellas que dan la instrucción de hacer alguna operación dentro del área de las matemáticas.
+
+Aritméticos
++ (Suma)
+- (Resta)
+mod (Modulo)
+^ (Potencia)
+√ (Radical o Raíz)
+* (Multiplicación)
+/ (División)
+= (Igual)
+
+Comparación
+< (Menor que)
+> (Mayor que)
+<= (Menor o igual que)
+>= (Mayor o igual que)
+== (Igual a)
+!= (Diferente de)
+
+Lógicos
+and / && (Y)
+or / || (O)
+not (No)

@@ -1,0 +1,28 @@
+UNIDADES DE MEDIDA DE MEMORIA:
+
+Aquí hay algo llamado celda de memoria,
+Cada celda tiene una única dirección que indica su posición relativa en memoria, cada celda se le suele llamar palabras o posición en memoria.
+
+Cada posición de memoria es de 1 byte o 8 bits.
+
+A cada byte se asocia un numero denominado dirección.
+
+
+Como términos hay varios de unidades en el sistema internacional de medidas.
+
+ETIMOLOGICAMENTE PRACTICO
+BYTE (B) 8BITS
+KILOBYTE (KB) 1,024BYTES
+MEGABYTES (MB) 1,024KB
+GIGABYTE (GB) 1,024MB
+TERABYTE (TB) 1,024GB
+
+Hay mas por el sistema internacional de medidas pero no son exclusivos pues todos son base de bytes.
+
+ETIMOLOGICAMENTE CORRECTO
+BYTE (B) 8BITS
+KIKIBYTE (KIB) (2^10)
+MEBIBYTE (MIB) (2^20)
+GIGIBYTE (GIB) (2^30)
+TEBIBYTE (TIB) (2^40)
+PEBIBYTE (PIB) (2^50)

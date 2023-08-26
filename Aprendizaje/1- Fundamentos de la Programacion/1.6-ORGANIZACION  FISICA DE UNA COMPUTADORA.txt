@@ -1,0 +1,66 @@
+1-Dispositivos de entrada
+
+2-CPU
+
+-CU (Unidad de control)
+-Memoria Centra/Principal
+-ALU (Unidad Aritmética Lógica)
+
+3-Dispositivos de Salida
+4-Memoria Externa/Secundaria
+
+
+
+--------------CPU
+
+¿Cómo se comporta?
+
+Los datos de entrada van a procesador de ahí son procesados con ALU Y CU Después se Almacenan en Memoria central y puede de nuevo ser usado o procesado en un programa, Al final se dan Datos de Salida.
+
+ALU es un sistema digital que calcula operaciones aritméticas o operaciones lógicas.
+
+CU es el que busca las instrucciones dentro de la memoria central, Las decodifica y interpreta e las ejecuta.
+
+---------------LENGUAJE MAQUINA
+
+Este emplea el sistema binario, el cual solo ocupa 0 y 1 a través de patrones.
+
+
+----------------------BUSES
+
+Los BUSES Son los canales de datos que interconectan los de datos de nuestras computadoras, siendo que existen 3 tipos:
+
+1-BUS FRONTAL
+2- BUS DEL SISTEMA
+3- BUSES ENTRADA/SALIDA O INPUTS/OUTPUTS
+
+-----------------------PERIFERICOS I/U O E/SALIDA
+
+Los sistemas periféricos permiten la comunicación entre el usuario y la computadora.
+
+Dispositivos de entrada: Introducen datos para su proceso.
+
+-Teclados
+-Micrófonos
+-Palancas de Mando
+-Escáner
+-Raton
+
+Dispositivos de Salida: Representan los resultados (salidas) del proceso de datos.
+
+-Pantalla
+-Impresoras
+-Altavoces
+-Plotters
+
+-------------------------------PORTS
+
+Estos son interfaces electrónicos en si canales de conexión de los dispositivos..
+
+-------------------------------MAS
+
+Memoria principal: procesados
+
+Memoria ROM: READ ONLY MEMORY, No se puede almacenar, escribir, sobrescribir, esta pregrabada por el fabricante, Almacena programas básicos.
+
+Memoria CACHE: Almacenamiento intermedio entre el procesado y la memoria principal.

@@ -1,0 +1,78 @@
+¿Qué es una etiqueta HTML5?
+Antes que nada, vamos a ver qué es una etiqueta HTML5.
+
+Las etiquetas HTML5 funcionan como parte de un código que cumple con una función sencilla. Dicha función se basa en ayudar a los navegadores a entender el contenido que contiene cada una de las etiquetas utilizadas.
+
+Además, es importante resaltar que cada etiqueta posee distintos atributos que determinan cómo funciona cada una. Todas inician con el símbolo “<” y terminan con el símbolo contrario, “>”. Entre dichos símbolos debe ir el nombre correspondiente a la etiqueta para que el navegador lo pueda asimilar como es debido.
+
+También es importante conocer que las etiquetas HTML5 se componen por una versión de apertura y una de cierre. Sin embargo, hay etiquetas que no llevan la versión de cierre como las que se usan para cargar imágenes. Las etiquetas de cierre utilizan el símbolo “/” antes del nombre de la etiqueta.
+
+Todas las etiquetas HTML5 y sus funciones
+Con una gran cantidad de etiquetas HTML5 disponibles hoy en día, es posible englobarlas de una manera más sencilla. Por lo que hemos creado una lista de todas las etiquetas HTML5 que son más comunes y la función que poseen. De manera que puedas utilizarla según sea necesario.
+
+Elementos iniciales
+Entre los elementos iniciales podemos encontrar etiquetas HTML5 como:
+
+<!DOCTYPE html>, la cual permite que los navegadores comprendan que un documento se basa en HTML5.
+<html></html>, que indican la etiqueta de apertura y cierre de un documento HTML. Si se desea agregar cualquier tipo de elementos, deben estar dentro de dichas etiquetas.
+Elementos para metadatos
+En el caso de los elementos para metadatos es posible utilizar las siguientes etiquetas:
+
+<head> </head>, que indican los metadatos respecto a un documento como los enlaces. Esta clase de información brindada sólo es visible para los navegadores.
+<title> </title>, la etiqueta que define el título de una web.
+<link>, utilizada para afiliar recursos que son externos a dicho documento.
+<meta>, utilizada para poder colocar metadatos como el autor de la web o hasta su descripción. Siempre es usada para datos que no poseen una etiqueta específica.
+<style></style>, funciona como medio para ingresar código CSS en el documento.
+Elementos de secciones
+Dividir una página por secciones es más que necesario para que sean visualmente atractivas y posean una estructura que los navegadores comprendan. Es por ello que, mencionamos las versiones más comunes de etiquetas para poder crear secciones dentro de una web:
+
+<body> </body>. Incluye todo el contenido que se desee mostrar dentro de la página web.
+<nav> </nav>. Define el contenido que estará ubicado dentro de la sección de navegación de la página.
+<main> </main>. Permite elegir el contenido principal que posee un documento, siendo único.
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>. Permiten crear una estructura para el contenido de una página web. Son esenciales para cumplir con la correcta organización de dicho contenido.
+<section> </section>. Indica la sección de un documento HTML.
+<article> </article>. Incluye el contenido de una página que es independiente.
+<aside> </aside>. Todo el contenido extra de una página web se incluye en estas etiquetas, pues posee poca relevancia, pero coincide con la web.
+<footer> </footer>. Incluye el contenido que irá en el pie de página.
+<header> </header>. Define la parte superior o cabecera de una web. En ella mayormente se encuentra el logotipo y nombre de la web, así como el menú.
+Elementos semánticos o estructurales
+<a> </a>. Ayuda a la creación de hiperenlaces dentro del documento HTML.
+<strong> </strong>. Con esta etiqueta se puede definir la importancia de una o más palabras, ayudando a mantener un mejor SEO. Dado que las define como más importantes.
+<small> </small>. Cuando se necesita dejar un comentario dentro del contenido, entonces se utiliza este tipo de etiqueta. Aunque no influye en la comprensión de un usuario por el documento, aporta información relevante.
+<cite> </cite>. Esta etiqueta define el título de una obra.
+<sub> </sub> y <sup> </sup>. Si se desea definir un subíndice, se utiliza <sub>. Mientras que los superíndices se definen con la etiqueta <sup>.
+<mark> </mark>. Si deseas resaltar un texto dentro de la web, esta es la etiqueta funcional.
+<span> </span>. Es utilizada en combinación con atributos como “class” o “id”, permitiendo definir una serie de características en ellos.
+<br>. Cualquier salto de línea dentro de una página web requiere de esta etiqueta.
+Elementos para creación de tablas
+Si deseas organizar mejor el contenido de una página web, las tablas siempre son una buena opción. Por lo que hemos recolectado las etiquetas HTML5 de mayor relevancia para la creación de tablas en una página web.
+
+<table> </table>. Si quieres crear una tabla para tu página web, entonces necesitas utilizar estas etiquetas y dentro de ellas encerrar al resto de etiquetas necesarias.
+<caption> </caption>. Indica el título que posee la tabla de tu web.
+<colgroup> </colgroup>. Si quieres agrupar una serie de columnas se utiliza dicha etiqueta.
+<tbody> </tbody>. Etiquetas HTML5 para indicar los datos que corresponden a la tabla.
+<thead> </thead>. Define las filas de una tabla, encargadas de categorizar a las columnas que la conforman.
+<tfoot> </tfoot>. Define cuáles son los bloques de filas encargados de describir todas las etiquetas que conforman las columnas.
+<tr> </tr>. Define toda la fila de celdas que posee una tabla.
+<td> </td>. Etiqueta que define una celda en específico de una tabla.
+<th> </th>. Tiene la función de definir cuál será el encabezado que posee una celda específica.
+Elementos de formularios
+Las páginas web buscan interactuar con el tráfico de manera constante, por lo que necesitan de etiquetas HTML5 para formular los formularios. En este caso, te presentamos las opciones más comunes para poder implementarlas en una web.
+
+<form> </form> Esta es la etiqueta de apertura y cierre que incluye un formulario para una web. Todas las etiquetas que definen dicho formulario deben estar encerradas entre estas dos etiquetas.
+<fieldset> </fieldset>. Esta opción es utilizada para poder definir a un conjunto de elementos que posee un formulario web. Lo mejor es identificar a las etiquetas que puedan estar contenidas dentro de esta.
+<legend> </legend>. Etiqueta que se encarga de definir el título correspondiente a la etiqueta <fieldset>.
+<label> </label>. Etiqueta que define el título de un control que conforma el formulario.
+<input> Gracias a esta etiqueta los usuarios poseen una introducción al formulario y resulta ser una de las más esenciales.
+<button> </button>. Define cualquier botón de un formulario web.
+<select> </select>. Etiqueta que permite la selección entre una serie de opciones que se encuentran en dicho formulario.
+<option> </option>. Esta etiqueta se encuentra ligada a la anterior y permite definir las opciones que estarán dentro del campo de <select>.
+<textarea> </textarea>. En este caso, define un campo para que el usuario ingrese un texto con una cantidad máxima de contenido especificado por el desarrollador.
+Elementos multimedia
+Dada la creciente necesidad de contar con una mayor cantidad de contenido multimedia dentro de las páginas web, estas etiquetas HTML5 te servirán. Cada una de ellas te permite implementar un tipo de elemento multimedia a una web, funcionando de manera distinta.
+
+<audio>. Encierra toda la música y sonido de una página web.
+<embed>. Encierra las aplicaciones externas que mayormente pueden incluir un reproductor.
+<fuente>. Se encarga de definir la fuente para las etiquetas de audio y vídeo.
+<track>. Incluye las pistas para las etiquetas de audio y vídeo respectivamente.
+<video>. Esta etiqueta incluye un vídeo o película.

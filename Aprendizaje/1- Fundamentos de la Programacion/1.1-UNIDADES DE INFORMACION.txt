@@ -1,0 +1,18 @@
+Es fundamental conocer las unidades de información ya que estas están constantemente dentro del mundo de la programación.
+
+¿Qué son?
+En las matemáticas puras, un valor no tiene un límite de espacio para su representación, sin embargo, las computadoras generalmente trabajan con un número fijo de de bits su calcificación se da a unidades de información, que son las que veremos ahora.
+
+
+BIT
+Un bit es la unidad mínima de la información en una computadora, bit es por siglas las palabras binario y digito por ingles (binary, digit), estas solo trabajan por dos dígitos, por 0 y 1.
+
+BYTE
+Esta es la unidad fundamental de la información que consta de 8 bits por eso es un octeto.
+
+NIBBLE
+Representa 1/2 byte, recordemos bytes son 8 bits entonces Nibble es 4 bits, esto por consecuentes es un cuarteto.
+
+
+PALABRAS
+La palabra es un conjunto de bytes (conjuntos de 8 bits)

@@ -1,0 +1,40 @@
+1. Modularidad y Abstracción:
+
+Modularidad: La modularidad se refiere a la práctica de dividir el código en módulos o unidades más pequeñas y manejables. Cada módulo tiene una función específica y se puede desarrollar y mantener de manera independiente. Esto mejora la organización del código y facilita la colaboración entre desarrolladores en proyectos grandes.
+Abstracción: La abstracción implica ocultar los detalles internos de una función o módulo y exponer solo los aspectos relevantes para su uso. Al crear funciones y módulos abstraídos, puedes interactuar con ellos sin necesidad de conocer su implementación interna, lo que promueve un diseño limpio y reutilizable.
+2. Recursividad:
+
+La recursividad es un enfoque en el que una función se llama a sí misma para resolver un problema. Se basa en dividir un problema en subproblemas más pequeños y similares. La recursividad es útil para problemas en los que la solución puede expresarse en términos de sí misma, como calcular factoriales o buscar elementos en árboles.
+3. Control de Flujo Avanzado:
+
+"switch-case": Esta estructura de control permite tomar decisiones basadas en el valor de una variable. Se utiliza para manejar múltiples casos o condiciones distintas.
+Manejo de Excepciones Avanzado: Además de las excepciones básicas, aprende a crear clases de excepción personalizadas y cómo manejar excepciones específicas en diferentes situaciones.
+4. Manejo de Archivos:
+
+Aprende cómo abrir archivos en diferentes modos (lectura, escritura) y cómo acceder a su contenido.
+Explora la importancia del cierre seguro de archivos para liberar recursos y prevenir problemas.
+Descubre cómo manejar excepciones al trabajar con archivos y cómo realizar operaciones de lectura y escritura estructuradas.
+5. Programación Funcional:
+
+Funciones Puras: Las funciones puras no tienen efectos secundarios y siempre producen el mismo resultado para la misma entrada. Aprende a escribir funciones puras que faciliten el razonamiento y la depuración.
+Funciones de Orden Superior: Descubre cómo las funciones pueden tomar otras funciones como argumentos o devolver funciones como resultados.
+Funciones Map, Filter y Reduce: Utiliza estas funciones para transformar y procesar colecciones de datos de manera concisa y elegante.
+6. Concurrencia y Multihilo:
+
+Hilos (Threads): Aprende cómo crear y administrar hilos para lograr la ejecución simultánea de tareas.
+Sincronización: Explora técnicas de sincronización como cerrojos y semáforos para evitar condiciones de carrera y garantizar la integridad de los datos compartidos entre hilos.
+7. Diseño de Patrones:
+
+Patrones de Creación: Descubre patrones como Singleton para garantizar que una clase tenga solo una instancia y Facade para simplificar interfaces complejas.
+Patrones de Comportamiento: Aprende sobre el patrón Observador para notificar cambios en objetos y el patrón Estrategia para intercambiar algoritmos dinámicamente.
+8. Networking y Comunicación:
+
+Protocolos de Comunicación: Aprende sobre protocolos comunes como HTTP para la comunicación entre aplicaciones a través de redes.
+APIs y Consumo de Datos: Explora cómo consumir APIs web para obtener y enviar datos entre aplicaciones remotas.
+9. Interfaz de Línea de Comandos (CLI):
+
+Argumentos de Línea de Comandos: Aprende a procesar argumentos proporcionados por el usuario al ejecutar una aplicación desde la línea de comandos.
+Interacción de Texto: Crea interfaces de usuario basadas en texto que permitan a los usuarios interactuar con tu programa mediante comandos y respuestas de texto.
+10. Versionado y Control de Código:
+- Git y GitHub: Aprende a utilizar Git para controlar y rastrear versiones de tu código. Explora GitHub para colaborar con otros desarrolladores y gestionar proyectos.
+- Ramas y Fusiones: Descubre cómo trabajar con ramas para desarrollar nuevas características sin afectar la rama principal, y cómo fusionar cambios de diferentes ramas.

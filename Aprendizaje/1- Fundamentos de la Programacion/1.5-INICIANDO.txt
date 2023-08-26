@@ -1,0 +1,36 @@
+---------------COMPUTADORAS 1.5.1
+
+La computadora es un dispositivo electrónico que procesa información y obtiene resultados.
+
+HARDWARE
+La computadora en si misma.
+
+SOFTWARE
+Programa que le indica a la computadora que hacer.
+
+
+PROGRAMAS DE COMPUTADORAS
+-Controlan
+-Dirigen
+
+Esto da en si instrucciones para solventar una necesidad o problema.
+
+---------------COMPUTADORAS 1.5.2
+
+-Datos
+-Información
+
+Estos dos son considerados como Entrada o por ingles (INPUT).
+
+Después se procesan.
+
+Al final dan Resultados conocidos como Salida o por ingles (OUTPUT)
+
+---------------COMPUTADORAS 1.5.3
+
+-HARDWARE
+-SOFTWARE
+
+Los componentes físicos de la computadora, datos de entrada y salida e sistema físico es HARDWARE.
+
+El sistema almacenado en memoria se le conoce como SOFTWARE

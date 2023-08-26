@@ -1,0 +1,29 @@
+Variables y Tipos de Datos:
+Las variables son contenedores que almacenan información. Los tipos de datos determinan qué tipo de información puede almacenarse en una variable. Por ejemplo, los enteros (int) almacenan números enteros, los flotantes (float) almacenan números decimales y las cadenas de texto (string) almacenan texto. Las variables te permiten manipular y utilizar datos en tu programa.
+
+Estructuras de Control:
+Las estructuras de control te permiten tomar decisiones y controlar el flujo de ejecución de tu programa. Las instrucciones condicionales, como el "if", te permiten ejecutar bloques de código solo si se cumple una condición. Los bucles, como el "for" y el "while", te permiten ejecutar un bloque de código repetidamente mientras se cumpla una condición.
+
+Funciones:
+Las funciones son bloques de código que realizan tareas específicas. Puedes reutilizar una función en diferentes partes de tu programa. Las funciones toman argumentos como entrada, realizan acciones y pueden devolver un resultado. Utilizar funciones te ayuda a organizar y simplificar tu código.
+
+Entrada y Salida:
+La entrada se refiere a cómo tu programa recibe datos del usuario o de otras fuentes, como archivos. La salida se refiere a cómo tu programa muestra información al usuario o la almacena en archivos. Las funciones de entrada/salida te permiten interactuar con la computadora y con los usuarios de tu programa.
+
+Gestión de Errores:
+La gestión de errores implica anticipar y manejar situaciones en las que el programa puede fallar. Las excepciones son eventos inesperados que pueden interrumpir la ejecución normal. Puedes usar declaraciones "try-catch" para capturar y manejar excepciones, evitando que tu programa se bloquee.
+
+Depuración y Testing:
+La depuración es el proceso de identificar y corregir errores en tu código. Puedes usar herramientas de depuración para rastrear y comprender cómo se ejecuta tu programa. El testing implica probar tu código para asegurarte de que funcione como se espera. Puedes escribir pruebas automatizadas para verificar el comportamiento de tu programa.
+
+Organización y Modularidad:
+Organizar tu código en funciones y módulos facilita su comprensión y mantenimiento. La modularidad significa dividir tu programa en componentes más pequeños y manejables. Cada función o módulo debe tener una tarea específica, lo que hace que tu código sea más legible y reutilizable.
+
+Objetos y Clases:
+La programación orientada a objetos (POO) se basa en la idea de que los objetos son entidades que tienen datos y comportamientos relacionados. Las clases son como plantillas para crear objetos. Definir una clase implica especificar qué datos (atributos) y qué funciones (métodos) tendrá el objeto.
+
+Librerías y Frameworks:
+Las librerías son conjuntos de funciones y utilidades predefinidas que puedes usar en tu programa. Los frameworks son estructuras más amplias que proporcionan un esqueleto para construir aplicaciones completas. Utilizar librerías y frameworks ahorra tiempo y te permite aprovechar la experiencia de otros desarrolladores.
+
+Bases de Datos:
+Las bases de datos son sistemas para almacenar, organizar y recuperar datos. Utilizan un lenguaje de consulta (SQL) para interactuar con los datos. Puedes crear, modificar y eliminar datos, así como realizar consultas para obtener información específica.

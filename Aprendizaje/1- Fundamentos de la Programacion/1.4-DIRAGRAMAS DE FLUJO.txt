@@ -1,0 +1,17 @@
+DIAGRAMAS DE FLUJO
+
+Construcción:
+
+-Análisis
+-Elaboración
+--(Arriba hacia abajo)
+--(Izquierda a derecha)
+-Prueba de escritorio
+
+SIMBOLOS
+
+Principales:
+https://wcs.smartdraw.com/flowchart/img/simbolos-de-diagramas-de-flujo.png?bn=15100111875
+
+Mas:
+https://www.edrawsoft.com/es/flowchart-symbols.html
