@@ -46,7 +46,7 @@ Aprecio cualquier tipo de contribución y retroalimentación constructiva. Si ti
 
 1. Acceder a un editor como VS CODE
 2. Clonar este repositorio en tu máquina local: `git clone https://github.com/DuskStarGITHUB/PORTAFOLIO`
-3. Abrir el archivo como correpsonda.
+3. Abrir el archivo como corresponda.
 
 ## Contacto
 
