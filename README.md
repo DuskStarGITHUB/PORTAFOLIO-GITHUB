@@ -34,7 +34,7 @@ El repositorio está organizado de la siguiente manera:
 | 📁 ...<br>
 📂 - SQL,SQL LITE,NOSQL (BD) <br>
 | 📁 ...<br>
-📂 - Aprendizaje (Apuntes) <br>
+📂 - Aprendizaje (Apuntes y Material de aprendizaje) <br>
 | 📁 ...<br>
 
 ## Sobre mi Propósito
