@@ -25,6 +25,7 @@ El repositorio está organizado de la siguiente manera:
 
 📄 - README (Informacion del repositorio) <br>
 📑 - LICENSE (licencia del repositorio y todo su contenido)<br>
+📑 - SECURITY (Archivo de seguridad)<br>
 📂 - HTML,CSS,JS,TS (Proyectos)<br>
 |  📁...<br>
 📂 - PYTHON (PROGRAMAS) <br>
@@ -32,6 +33,8 @@ El repositorio está organizado de la siguiente manera:
 📂 - C++ (PROGRAMAS) <br>
 | 📁 ...<br>
 📂 - SQL,SQL LITE,NOSQL (BD) <br>
+| 📁 ...<br>
+📂 - Aprendizaje (Apuntes) <br>
 | 📁 ...<br>
 
 ## Sobre mi Propósito
