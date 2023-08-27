@@ -1,0 +1,106 @@
+/* Estilo para el cuerpo del documento */
+body {
+  font-family: monospace;
+  background-color: #000;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Estilo para el encabezado */
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Estilo para el título principal (h1) */
+h1 {
+  color: #00ff00;
+  font-size: 36px;
+  margin: 0;
+}
+
+/* Estilo para el subtítulo (h2) */
+h2 {
+  color: #00ff00;
+  font-size: 18px;
+  margin: 0;
+}
+
+/* Estilo para el contenido principal */
+main {
+  background-color: #000;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  color: #00ff00;
+}
+
+/* Estilo para la tabla */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Estilo para los encabezados de tabla */
+th {
+  padding: 10px;
+  text-align: right;
+  background-color: #000;
+  color: #00ff00;
+  font-size: 24px;
+}
+
+/* Estilo para las celdas de tabla */
+td {
+  padding: 10px;
+}
+
+/* Estilo para los botones */
+.button {
+  width: 100%;
+  height: 60px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  background-color: #000;
+  color: #00ff00;
+  transition: background-color 0.3s;
+}
+
+/* Estilo para el efecto hover de los botones */
+.button:hover {
+  background-color: #00ff00;
+  color: #000;
+}
+
+/* Estilo para los botones grises */
+.greybutton {
+  background-color: #333;
+}
+
+/* Estilo para los botones negros con texto verde */
+.blackbutton {
+  background-color: #000;
+  color: #00ff00;
+}
+
+/* Estilo para los botones rojos con texto negro */
+.redbutton {
+  background-color: #ff0000;
+  color: #000;
+}
+
+/* Estilo para los botones verdes con texto negro */
+.greenbutton {
+  background-color: #00ff00;
+  color: #000;
+}
+
+/* Estilo para los botones azules con texto verde */
+.bluebutton {
+  background-color: #0000ff;
+  color: #00ff00;
+}
