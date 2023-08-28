@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "64ed18dbdf0f193b525e0162"
+  },
+  "type": "image",
+  "title": "Imagen de muestra 1",
+  "description": "Descripción de la imagen 1",
+  "tags": [
+    "etiqueta1",
+    "etiqueta2"
+  ],
+  "metadata": {
+    "author": "Autor del contenido 1",
+    "date": "2023-08-28T00:00:00Z",
+    "versions": [
+      {
+        "versionNumber": 1,
+        "url": "URL_de_la_imagen_v1.jpg",
+        "uploadedBy": "usuario_id_1",
+        "uploadDate": "2023-08-28T12:00:00Z"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "64ed18eadf0f193b525e0163"
+  },
+  "username": "usuario1",
+  "email": "usuario1@example.com",
+  "password": "hashed_password_1",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "64ed18f5df0f193b525e0165"
+  },
+  "username": "usuario2",
+  "email": "usuario2@example.com",
+  "password": "hashed_password_2",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "64ed18fcdf0f193b525e0166"
+  },
+  "username": "usuario3",
+  "email": "usuario3@example.com",
+  "password": "hashed_password_3",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "64ed1903df0f193b525e0167"
+  },
+  "username": "usuario4",
+  "email": "usuario4@example.com",
+  "password": "hashed_password_4",
+  "role": "user"
+}]
