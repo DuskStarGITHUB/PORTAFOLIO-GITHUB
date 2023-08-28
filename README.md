@@ -6,6 +6,10 @@
 
 Este repositorio se ha creado con la intención de compartir mis experiencias de aprendizaje a través de la programación. Aquí encontrarás una variedad de proyectos y scripts que abarcan diferentes lenguajes y tecnologías, he explorado diversas áreas para expandir mis habilidades y conocimientos.
 
+### Porfavor Visitar la WIKI
+
+En la wiki puedes encontrar instrucciones apra descargar, replicar o susar los recursos del repositorio en tu maquina.
+
 ## Temas Relevantes
 
 Dentro de este repositorio, los siguientes temas son prominentes:
