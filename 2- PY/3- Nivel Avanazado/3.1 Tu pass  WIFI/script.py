@@ -9,7 +9,7 @@
 import subprocess
 
 def get_wifi_passwords():
-    """Procesos"""
+    """PROCESOS"""
     # Obtener los nombres de las redes
     output_profiles = subprocess.run(
         ["netsh", "wlan", "show", "profiles"],
@@ -19,6 +19,7 @@ def get_wifi_passwords():
         for line in output_profiles.stdout.splitlines() if "Perfil de todos los usuarios" in line]
     wifi_passwords = []
     for profile_name in profile_names:
+        print(f"Obteniendo información de perfil: {profile_name}")
         cmd = f"netsh wlan show profile name=\"{profile_name}\" key=clear"
         output = subprocess.run(cmd, capture_output=True, text=True, shell=True, check=False)
         lines = output.stdout.splitlines()
@@ -29,12 +30,12 @@ def get_wifi_passwords():
     return wifi_passwords
 
 def main():
-    """Funcion Principal"""
+    """DESPLIEGUE"""
     wifi_passwords = get_wifi_passwords()
     if len(wifi_passwords) == 0:
-        print("No se encontraron contraseñas de redes Wi-Fi.")
+        print("\nNo se encontraron contraseñas de redes Wi-Fi.")
     else:
-        print("Contraseñas de redes Wi-Fi encontradas:\n")
+        print("\nContraseñas de redes Wi-Fi encontradas:\n")
         for network, password in wifi_passwords:
             print(f"Red: {network}")
             print(f"Contraseña: {password}\n")
