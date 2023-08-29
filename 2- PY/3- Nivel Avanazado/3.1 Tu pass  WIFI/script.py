@@ -1,5 +1,4 @@
 """Titulo: |Tu pass WIFI|"""
-
 #####################################################################################
 # Descripción: <Script,te muestra las contraseñas de tu wifi ocultas en tu maquina>
 # Autor: <DuskStar>
