@@ -6,11 +6,11 @@
 # Notas: <Solo funciona en WINDOWS>
 #####################################################################################
 
+# LIBRERIA
 import subprocess
 
-# Función para obtener contraseñas de redes Wi-Fi
 def get_wifi_passwords():
-    """Funcionde procesos"""
+    """Funcion de procesos"""
     # Obtener los nombres de las redes Wi-Fi almacenadas en el sistema
     output_profiles = subprocess.run(
         ["netsh", "wlan", "show", "profiles"],
