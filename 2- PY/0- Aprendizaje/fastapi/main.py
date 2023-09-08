@@ -3,7 +3,8 @@
 # Descripción: <Fast Api aprendizaje>
 # Autor: <DuskStar>
 # Fecha de creación: <08/09/2023>
-# Nota: <N/A>
+# Nota: <Tener instalado la libreria de FastApi>
+# Nota: <Navegar hasta la carpeta de este archivo y ejecutar uvicorn main:app>
 #####################################################################################
 
 # LIBRERIAS
