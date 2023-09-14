@@ -1,70 +1,70 @@
-# Portafolio
+# Portfolio
 
-¡Bienvenido a mi repositorio de portafolio! Aquí encontrarás una colección de mis proyectos, scripts y programas que he desarrollado a lo largo de mi recorrido de aprendizaje. Soy DuskStar y mi objetivo con este portafolio es mostrar los resultados de mis esfuerzos mientras exploraba el mundo de la programación y el desarrollo.
+Welcome to my portfolio repository! Here you will find a collection of my projects, scripts, and programs that I have developed throughout my learning journey. I am DuskStar, and my goal with this portfolio is to showcase the results of my efforts while exploring the world of programming and development.
 
-## Acerca de este Repositorio
+## About This Repository
 
-Este repositorio se ha creado con la intención de compartir mis experiencias de aprendizaje a través de la programación. Aquí encontrarás una variedad de proyectos y scripts que abarcan diferentes lenguajes y tecnologías, he explorado diversas áreas para expandir mis habilidades y conocimientos.
+This repository has been created with the intention of sharing my learning experiences through programming. Here you will find a variety of projects and scripts spanning different languages and technologies. I have explored various areas to expand my skills and knowledge.
 
-### Porfavor Visitar la WIKI
+### Please Visit the Wiki
 
-En la wiki puedes encontrar instrucciones apra descargar, replicar o susar los recursos del repositorio en tu maquina.
+In the wiki, you can find instructions for downloading, replicating, or using the resources from the repository on your machine.
 
-## Temas Relevantes
+## Relevant Topics
 
-Dentro de este repositorio, los siguientes temas son prominentes:
+Within this repository, the following topics are prominent:
 
 - HTML5
 - CSS3
-- TYPESCRIPT Y JAVASCRIPT
+- TYPESCRIPT AND JAVASCRIPT
 - PYTHON
 - C++
 - SQL
 - SQL LITE
 - NOSQL
 
-## Estructura del Repositorio
+## Repository Structure
 
-El repositorio está organizado de la siguiente manera:
+The repository is organized as follows:
 
-📄 - README (Informacion del repositorio) <br>
-📑 - LICENSE (licencia del repositorio y todo su contenido)<br>
-📑 - SECURITY (Archivo de seguridad)<br>
-📂 - HTML,CSS,JS,TS (Proyectos)<br>
-|  📁...<br>
-📂 - PYTHON (PROGRAMAS) <br>
-| 📁 ...<br>
-📂 - C++ (PROGRAMAS) <br>
-| 📁 ...<br>
-📂 - SQL,SQL LITE,NOSQL (BD) <br>
-| 📁 ...<br>
-📂 - Aprendizaje (Apuntes y Material de aprendizaje) <br>
-| 📁 ...<br>
+📄 - README (Repository information) <br>
+📑 - LICENSE (Repository and all its content license) <br>
+📑 - SECURITY (Security file) <br>
+📂 - HTML, CSS, JS, TS (Projects) <br>
+| 📁 ... <br>
+📂 - PYTHON (PROGRAMS) <br>
+| 📁 ... <br>
+📂 - C++ (PROGRAMS) <br>
+| 📁 ... <br>
+📂 - SQL, SQL LITE, NOSQL (DB) <br>
+| 📁 ... <br>
+📂 - Learning (Notes and Learning Material) <br>
+| 📁 ... <br>
 
-## Sobre mi Propósito
+## About My Purpose
 
-Mi propósito al crear este portafolio es doble. Por un lado, quiero mostrar mi progreso a lo largo de mi viaje de aprendizaje. Cada script, programa o proyecto aquí presente representa un hito en mi camino hacia la maestría en el mundo de la programación. Por otro lado, este repositorio también está destinado a ser una fuente recursos utilizables para desarollar otros proyectos.
+My purpose in creating this portfolio is twofold. On one hand, I want to showcase my progress throughout my learning journey. Each script, program, or project presented here represents a milestone in my path to mastering the world of programming. On the other hand, this repository is also intended to be a source of usable resources for developing other projects.
 
-## Cómo Colaborar
+## How to Collaborate
 
-Aprecio cualquier tipo de contribución y retroalimentación constructiva. Si tienes sugerencias para mejorar algún proyecto, o te gustaría colaborar en algún aspecto, no dudes en abrir un issue o un pull request.
+I appreciate any kind of contribution and constructive feedback. If you have suggestions to improve any project or would like to collaborate in any aspect, feel free to open an issue or pull request.
 
-## Uso
+## Usage
 
-1. Acceder a un editor como VS CODE
-2. Clonar este repositorio en tu máquina local: `git clone https://github.com/DuskStarGITHUB/PORTAFOLIO`
-3. Abrir el archivo como corresponda.
+1. Access an editor like VS CODE
+2. Clone this repository to your local machine: `git clone https://github.com/DuskStarGITHUB/PORTAFOLIO`
+3. Open the file as appropriate.
 
-## Contacto
+## Contact
 
-¡Gracias por visitar mi portafolio! Si tienes alguna pregunta, idea o colaboración en mente, no dudes en contactarme.
+Thank you for visiting my portfolio! If you have any questions, ideas, or collaboration in mind, feel free to contact me.
 
-Sígueme en mis redes sociales:
+Follow me on my social media:
 
 [<img src="https://www.vhv.rs/file/max/31/318855_website-logo-png.png" alt="WEB" width="42px"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/speencer-lk/)
 [<img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub"/>](https://github.com/DuskStarGITHUB)
 
-Gracias por visitar mi repositorio y explorar mi viaje de aprendizaje a través de la programación!
+Thank you for visiting my repository and exploring my learning journey through programming!
 
-*Nota: Este repositorio se mantiene en constante actualización a medida que continúo aprendiendo y desarrollando. Te invito a volver para descubrir nuevas adiciones y mejoras.*
+*Note: This repository is continuously updated as I continue to learn and develop. I invite you to come back to discover new additions and improvements.*
