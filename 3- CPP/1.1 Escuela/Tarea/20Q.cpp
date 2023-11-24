@@ -18,7 +18,7 @@ int main()
     // Despliegue de menu
     do
     {
-        cout << "\t\t\t\tBienvenido a 20Q" << endl;
+        cout << "\t\t\t\tBienvenido" << endl;
         cout << "\nSelecciona una opcion mentalmente de la siguiente lista y intentare adivinar a traves de una serie de preguntas que opcion has elegido.\n"
              << endl;
         cout << "\n\tFrutas:\n\tTecojote\tMango\t\tCoco" << endl;
@@ -112,7 +112,29 @@ int main()
                                     if (respuesta == "S" or respuesta == "s")
                                     {
                                         error = 1;
-                                        cout << "\n¡Es un canguro!" << endl;
+                                        do
+                                        {
+                                            cout << "\n¿Es mas grande que un buhó? (S/N): ";
+                                            cin >> respuesta;
+                                            cout << endl;
+                                            if (respuesta == "S" or respuesta == "s")
+                                            {
+                                                error = 1;
+                                                cout << "\n¡Es un canguro!" << endl;
+                                            }
+                                            else if (respuesta == "N" or respuesta == "n")
+                                            {
+                                                error = 1;
+                                                cout << "\n¡Es un pajaro!" << endl;
+                                            }
+                                            // Manejo de error
+                                            else
+                                            {
+                                                error = 2;
+                                                cout << "\nRespuesta no valida, porfavor responde con 'S' para si o 'N' para no.\n"
+                                                     << endl;
+                                            }
+                                        } while (error == 2);
                                     }
                                     else if (respuesta == "N" or respuesta == "n")
                                     {
