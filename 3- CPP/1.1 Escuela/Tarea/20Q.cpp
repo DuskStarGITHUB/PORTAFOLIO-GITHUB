@@ -114,7 +114,7 @@ int main()
                                         error = 1;
                                         do
                                         {
-                                            cout << "\n¿Es mas grande que un buhó? (S/N): ";
+                                            cout << "¿Es mas grande que un buhó? (S/N): ";
                                             cin >> respuesta;
                                             cout << endl;
                                             if (respuesta == "S" or respuesta == "s")
